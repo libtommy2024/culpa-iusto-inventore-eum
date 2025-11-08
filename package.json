@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/culpa-iusto-inventore-eum",
-  "version": "20.39.500",
+  "version": "20.39.501",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -674,5 +674,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/culpa-iusto-inventore-eum/issues"
   },
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.11.0"
 }
